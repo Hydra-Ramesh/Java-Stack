@@ -1,0 +1,1 @@
+If we want to delete one file or folder from a repo we should use the following command (git rm --cached file name)

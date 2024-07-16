@@ -1,0 +1,3 @@
+**Platform Dependency:** Platform-dependent programming languages or programs can only run on a specific type of operating system or hardware. This means the code needs to be modified or rewritten to work on different platforms. Examples include programs written in languages like C or C++, which may require recompilation for different operating systems.
+
+**Platform Independency:** Platform-independent programming languages or programs can run on any operating system or hardware without modification. This is achieved through an intermediate layer, such as a virtual machine or interpreter. Java is a prime example, as its "write once, run anywhere" philosophy is enabled by the Java Virtual Machine (JVM), which allows Java programs to run on any device with a JVM installed.

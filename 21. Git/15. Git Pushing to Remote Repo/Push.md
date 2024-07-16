@@ -1,0 +1,1 @@
+If we want to push some code in to a new remote repo also a new branch than we have to use a command after adding and commiting all file in a git initial local repo.That is (git push origin branch name)

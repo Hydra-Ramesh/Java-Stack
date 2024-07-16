@@ -1,0 +1,1 @@
+For view the whole structure of our own code repo than we have to understand the graph using Git Graph Extension.
